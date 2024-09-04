@@ -1,0 +1,14 @@
+[
+    {
+        "AllowedHeaders": [
+        	"Authorization"
+        ],
+        "AllowedMethods": [
+        	"GET"
+        ],
+        "AllowedOrigins": [
+        	"UPDATE: http://www.myoriginbucket.com"
+        ],
+        "ExposeHeaders": []
+    }
+]
